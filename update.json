@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "apk_url": "https://github.com/samrth012/solobox-update/releases/download/v1.4.0/solobox.apk",
-  "release_notes": "Add bluetooth",
-  "released_at": "2026-04-25T00:12:04.175Z"
+  "version": "1.5.0",
+  "apk_url": "https://github.com/samrth012/solobox-update/releases/download/v1.5.0/solobox.apk",
+  "release_notes": "Make fully offline",
+  "released_at": "2026-04-25T00:24:04.590Z"
 }
