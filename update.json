@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "apk_url": "https://github.com/samrth012/solobox-update/releases/download/v1.9.0/solobox.apk",
-  "release_notes": "use commit msg as update changelog",
-  "released_at": "2026-04-28T10:09:36.614Z"
+  "version": "1.12.0",
+  "apk_url": "https://github.com/samrth012/solobox-update/releases/download/v1.12.0/solobox.apk",
+  "release_notes": "update build with sign",
+  "released_at": "2026-04-28T10:46:14.026Z"
 }
